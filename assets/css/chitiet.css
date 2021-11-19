@@ -1,0 +1,113 @@
+.hv-list-date li {
+    list-style: none !important;
+}
+.hv-breadcrumbs {
+    padding: 20px 0;
+    border-bottom: 1px solid #e2e2e2;
+    margin: 65px auto 20px auto;
+    font-weight: 600;
+    color: #000;
+}
+.container {
+    width: 1170px;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.col-lg-12 {
+    width: 100%;
+}
+.hv-breadcrumbs .breadcrumb {
+    margin: 0;
+    border-radius: 0;
+    border: 0;
+    background: 0 0;
+    padding: 0;
+    font-weight: 400;
+}
+.breadcrumb>li {
+    display: inline-block;
+}
+a {
+    color: #767676;
+    transition: color .2s ease-in-out 0s;
+    text-decoration: none;
+}
+.hv-breadcrumbs {
+    margin: 0 !important;
+}
+.hv-single-wrap {
+    margin-top: 59px !important;
+}
+#hv-list-date li {
+    float: left;
+    margin-right: 10px;
+    padding-right: 15px;
+    font-style: italic;
+}
+.hv-single-title {
+    padding-bottom: 20px;
+    font-size: 30px;
+    line-height: 40px;
+    line-height: 40px;
+    font-weight: 600;
+}
+.pull-left {
+    float: left!important;
+}
+#hv-list-date {
+    display: inline-block;
+    padding-left: 0;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: .8125em;
+    font-weight: 400;
+    list-style: none;
+}
+#hv-list-date li {
+    float: left;
+    margin-right: 10px;
+    padding-right: 15px;
+    font-style: italic;
+}
+.pull-right {
+    float: right!important;
+}
+.hv-main-content * {
+    line-height: 30px;
+    color: #333;
+    max-width: 100% !important;
+    font-weight: 300;
+}
+hr.art-hr {
+    border: solid #ddd;
+    border-width: 1px 0 0;
+    clear: both;
+    margin: 15px 0;
+    height: 0;
+}
+.hv-single-content-right .hv-box-search {
+    border-bottom: none;
+}
+#searchform {
+    position: relative;
+}
+.hv-main-content {
+    clear: both;
+}
+.sidebox a {
+    line-height: 1.25em;
+    color: #000;
+    font-size: 13px;
+    font-weight: 700;
+}
+.sidebox .wrap-list-sidebox p {
+    line-height: 1.5;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    margin-top: 10px;
+    font-weight: 100;
+}
